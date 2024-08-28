@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on Computer Science
-🌱 I’m currently learning Machine learning and Blockchain
-👯 I’m looking to collaborate on Research Projects 
+👯 I’m looking to collaborate on Research Projects in the computer science domains
 
 💻 I'm all about software development and love tackling problems head-on. You'll often find me in the midst of hackathons,
    thriving on the adrenaline rush of crafting tech solutions that make  a real impact.
