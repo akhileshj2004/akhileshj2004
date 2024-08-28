@@ -14,7 +14,7 @@
 </p>
 
 🌟 Let's connect! I'm all about forging connections for a brighter future through tech innovation. 🤝 #TechEnthusiast #Innovation #AIenthusiast
-📫 How to reach me: www.linkedin\akhileshj2004.com
+📫 How to reach me: www.linkedin.com/in/akhilesh-joshi-aj2004
 # You Can Find me on: 
 <p align="center">
   <a href="https://skillicons.dev">
