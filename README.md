@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/amanbind898/amanbind898/main/ezgif-3-e2dd7b4583.gif) 
 
 ## Hi there I am Akhilesh Joshi👋
-<h3 align="center"> "Passionate about transforming data into actionable insights, from pixels to predictions. If you're in the game, it's fair play."</h3>
+<h3 align="center"> "Passionate about transforming data into actionable insights, from pixels to predictions."</h3>
 
 <h3 align="Left">👯 I’m looking to collaborate on Research Projects in the computer science domains</h3>
 <h3 align="Left">💻 I'm all about software development and love tackling problems head-on. You'll often find me in the midst of hackathons,
