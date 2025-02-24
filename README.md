@@ -27,9 +27,53 @@
 
 ## 🛠️ Technical Stack
 
+## I am Skilled in :
+
+## Technical Skills
 <p align="center">
+  <!-- Programming Languages -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,nodejs,express,mysql,linux,tensorflow,pytorch,raspberrypi,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,solidity&perline=8" />
+  </a>
+  
+  <!-- Development Tools & IDEs -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,git,latex&perline=8" />
+  </a>
+
+  <!-- Web Development & Frameworks -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,fastapi,flask&perline=8" />
+  </a>
+
+  <!-- Databases & Storage -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=8" />
+  </a>
+
+  <!-- AI/ML & Computer Vision -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=8" />
+  </a>
+
+  <!-- Cloud & DevOps -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,prometheus,netlify&perline=8" />
+  </a>
+
+  <!-- Operating Systems & Platforms -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows&perline=8" />
+  </a>
+
+  <!-- IoT & Hardware -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=raspberrypi&perline=8" />
+  </a>
+
+  <!-- Other Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,figma,selenium&perline=8" />
   </a>
 </p>
 
