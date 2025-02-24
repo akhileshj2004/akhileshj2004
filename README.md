@@ -80,7 +80,20 @@
   <img src="https://komarev.com/ghpvc/?username=akhileshj2004&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
 
----
 <div align="center">
-  <img src="https://github.com/akhileshj2004/akhileshj2004/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" />
+</div>
+
+<!-- Your existing profile content -->
+
+<!-- Replace the snake animation with these dynamic elements -->
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshj2004&theme=react-dark&hide_border=true&area=true" width="100%">
+
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=akhileshj2004&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%">
+
+  <!-- Animated Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
 </div>
