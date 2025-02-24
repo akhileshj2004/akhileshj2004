@@ -25,11 +25,8 @@
 
 <br>
 
+
 ## 🛠️ Technical Stack
-
-## I am Skilled in :
-
-## Technical Skills
 <p align="center">
   <!-- Programming Languages -->
   <a href="https://skillicons.dev">
