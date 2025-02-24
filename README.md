@@ -1,46 +1,86 @@
-![MasterHead](https://raw.githubusercontent.com/amanbind898/amanbind898/main/ezgif-3-e2dd7b4583.gif) 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amanbind898/amanbind898/main/ezgif-3-e2dd7b4583.gif" alt="MasterHead" width="100%"/>
+</div>
 
-## Hi there I am Akhilesh Joshi👋
-<h3 align="center"> "Passionate about transforming data into actionable insights, from pixels to predictions."</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=Akhilesh+Joshi;AI+%26+ML+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+</h1>
 
-<h3 align="Left">👯 I’m looking to collaborate on Research Projects in the computer science domains</h3>
-<h3 align="Left">💻 I'm all about software development and love tackling problems head-on. You'll often find me in the midst of hackathons,
-   thriving on the adrenaline rush of crafting tech solutions that make  a real impact.
-</h3>
+<div align="center">
+   <h3><em>"Transforming Complex Data into Actionable Solutions through Innovation"</em></h3>
+</div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Research+Oriented+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
-## I am Skilled in :
+### 🎯 About Me
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+- 🔬 Research-oriented software developer focused on computational solutions
+- 💡 Specialized in AI/ML systems and data-driven applications
+- 🤝 Open to research collaborations in computer science domains
+- 🏆 Hackathon enthusiast and problem solver
+- 💻 Building impactful tech solutions for real-world challenges
+
+<br>
+
+## 🛠️ Technical Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,nodejs,express,mysql,linux,tensorflow,pytorch,raspberrypi,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,nodejs,express,mysql,linux,tensorflow,pytorch,raspberrypi,git&perline=8" />
   </a>
 </p>
 
-### Technologies & Concepts:
-- **AI & ML**: Deep Learning, Machine Learning, Computer Vision, Generative AI
-- **Web Development**: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, <a href="https://reactjs.org/">React.js</a>, <a href="https://nodejs.org/">Node.js</a>, <a href="https://expressjs.com/">Express.js</a>
-- **Programming Languages**: <a href="https://www.cprogramming.com/">C</a>, <a href="https://isocpp.org/">C++</a>, <a href="https://www.python.org/">Python</a>
-- **Databases**: <a href="https://www.oracle.com/database/">Oracle SQL</a>, <a href="https://www.mysql.com/">MySQL</a>, <a href="https://www.mongodb.com/">MongoDB</a>
-- **ML Frameworks & Libraries**: <a href="https://www.tensorflow.org/">TensorFlow</a>, <a href="https://pytorch.org/">PyTorch</a>, <a href="https://pandas.pydata.org/">Pandas</a>, <a href="https://numpy.org/">NumPy</a>, <a href="https://matplotlib.org/">Matplotlib</a>, <a href="https://seaborn.pydata.org/">Seaborn</a>, <a href="https://scikit-learn.org/">Scikit-learn</a>
-- **IoT & Hardware**: <a href="https://www.raspberrypi.org/">Raspberry Pi</a>, <a href="https://www.edgeimpulse.com/">Edge Impulse</a>
-- **DevOps & Systems**: <a href="https://ubuntu.com/">Linux (Ubuntu)</a>
-- **Other**: Blockchain, Computer Networks
+### 🔧 Technologies & Expertise
 
+<details>
+<summary>Click to expand</summary>
 
+- **🤖 AI & ML**: 
+  - Deep Learning | Machine Learning | Computer Vision | Generative AI
+  
+- **🌐 Web Development**: 
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  
+- **⚙️ Frameworks & Libraries**: 
+  - <a href="https://reactjs.org/"><img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  - <a href="https://nodejs.org/"><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  - <a href="https://expressjs.com/"><img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
 
-🌟 Let's connect! I'm all about forging connections for a brighter future through tech innovation. 🤝 #TechEnthusiast #Innovation #AIenthusiast
-📫 How to reach me: www.linkedin.com/in/akhilesh-joshi-aj2004
-## You Can Find me on: 
+- **📊 Data Science Stack**:
+  - <a href="https://www.tensorflow.org/"><img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+  - <a href="https://pytorch.org/"><img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+  - <a href="https://scikit-learn.org/"><img align="center" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+
+</details>
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,discord,linkedin" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshj2004&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-## Some statistics :
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akhileshj2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshj2004&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhileshj2004&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshj2004" /> </p>
+## 🤝 Connect with Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhileshj2004&show_icons=true&locale=en&layout=compact" alt="akhileshj2004" /></p>
+<p align="center">
+<a href="http://www.linkedin.com/in/akhilesh-joshi-aj2004"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:akhileshjoshi2004.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhileshj2004&show_icons=true&locale=en" alt="akhileshj2004" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhileshj2004&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
+
+---
+<div align="center">
+  <img src="https://github.com/akhileshj2004/akhileshj2004/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
