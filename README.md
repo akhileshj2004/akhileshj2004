@@ -129,9 +129,7 @@
 
 <!-- Replace the snake animation with these dynamic elements -->
 <div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhileshj2004&theme=react-dark&hide_border=true&area=true" width="100%">
-
+ 
   <!-- Trophy Stats -->
   <img src="https://github-profile-trophy.vercel.app/?username=akhileshj2004&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%">
 
