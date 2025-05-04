@@ -101,14 +101,6 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshj2004&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akhileshj2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshj2004&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ## 🤝 Connect with Me
 
@@ -117,22 +109,24 @@
 <a href="mailto:akhileshjoshi2004.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<div align="center">
+<br/>
+  <h2 align="center">⚡ Current Statistics ⚡</h2>
+  
+  <div align="center">
   <img src="https://komarev.com/ghpvc/?username=akhileshj2004&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn" />
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=akhileshj2004&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=akhileshj2004&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshj2004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<!-- Your existing profile content -->
+  <br/>
 
-<!-- Replace the snake animation with these dynamic elements -->
-<div align="center">
- 
-  <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=akhileshj2004&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%">
+<br/><br/>
 
-  <!-- Animated Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
-</div>
+
+
+<
