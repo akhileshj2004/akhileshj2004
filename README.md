@@ -11,13 +11,13 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Research+Oriented+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ### 🎯 About Me
 
 
-- 🔬 Research-oriented software developer focused on computational solutions
+- 🔬 Software developer focused on computational solutions
 - 💡 Specialized in AI/ML systems and data-driven applications
 - 🤝 Open to research collaborations in computer science domains
 - 🏆 Hackathon enthusiast and problem solver
