@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amanbind898/amanbind898/main/ezgif-3-e2dd7b4583.gif" alt="MasterHead" width="100%"/>
-</div>
+[![An image of @akhileshj2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akhileshj2004)](https://holopin.io/@akhileshj2004)
+
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=435&lines=Akhilesh+Joshi;AI+%26+ML+Engineer;Full+Stack+Developer" alt="Typing SVG" />
