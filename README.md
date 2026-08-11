@@ -21,8 +21,7 @@
 
 ### 🚀 About Me
 
-Aspiring Software Engineer with hands-on experience in **software development, cloud deployment, and ML systems**. CS undergrad at **KLE Technological University** (CGPA 8.46), currently an **AI Research Intern @ IIIT Dharwad**, building affect-aware dialogue agents on GPT-2.
-
+Engineer with hands-on experience in **software development, cloud deployment, and ML systems**. CS Grad at **KLE Technological University** (CGPA 8.46), recently was an **AI Research Intern @ IIIT Dharwad**, built affect-aware dialogue agents.
 ---
 
 ### 🛠️ Tech Stack
