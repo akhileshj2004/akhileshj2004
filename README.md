@@ -3,11 +3,11 @@
 
 # Akhilesh Joshi
 
-** Karnataka, India**
-
 [Email](mailto:akhileshjoshi2004@gmail.com) · [LinkedIn](https://linkedin.com/in/akhilesh-joshi-aj2004) · [GitHub](https://github.com/Akhileshj2004)
 
 ---
+[![akhileshjoshi.agent](https://dmv.agentcommunity.org/badge?id=MESA-F4B-C22I)](https://dmv.agentcommunity.org/c/MESA-F4B-C22I/akhileshjoshi)
+
 
 ### Focus
 RAG, LLM fine‑tuning, federated learning, cloud infrastructure.
@@ -19,15 +19,8 @@ RAG, LLM fine‑tuning, federated learning, cloud infrastructure.
 - **ShopSync** — Full DevOps pipeline on AWS (IaC + Docker)
 
 ### Selected Tech
-Python · PyTorch · Hugging Face · LangChain · AWS · Docker
+Python · C++ · AWS · Docker
 
 [→ All repositories](https://github.com/Akhileshj2004?tab=repositories)
 ---
 
-### 🎓 Notable Participations
-> 🏫 **IIIT Hyderabad** — 9th Summer School on AI, CVIT | 2025
->
-> 🔐 **IIIT Dharwad** — Cybersecurity Workshop: Digital Crime Investigation | 2025
->
-> 🎮 **NVIDIA GTC** | **GDG DevFest Hubballi & Belagavi** | 2022–24
-```
